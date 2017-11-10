@@ -1,0 +1,33 @@
+{
+    "name": "linkit",
+    "title": "LinkIt Jquery Plugin",
+    "description": "Simple plugin to covnert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Chido Ukaigwe",
+        "url": "http://chido-designs.co.uk/"
+    },
+    "maintainers": [
+        {
+            "name": "Chido Ukaigwe",
+            "email": "chidodesigns@gmail.com",
+            "url": "http://chido-designs.co.uk/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/chidoukaigwe/jquery.linkitLICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/chidoukaigwe/jquery.linkit",
+    "docs": "https://github.com/chidoukaigwe/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
